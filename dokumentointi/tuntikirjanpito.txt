@@ -1,1 +1,3 @@
 17.12.2012 : 2,5 h : Aiheen valitseminen, GitHubin asennus, Aihemäärittelyn aloittaminen
+
+19.12.2012 : 2,5 h : Koodin aloittaminen, Ensimmäisten testien kirjoittaminen, Luokkakaavion piirtoa
